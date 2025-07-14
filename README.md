@@ -1,4 +1,5 @@
-# Hi there 👋
+# 💫 About Me
+Informatics student at Universitas Pembangunan Nasional "Veteran" Jawa Timur, focus on frontend web development. Experience with PHP and JavaScript in academic projects, as well as Figma, Framer, and networking technologies including Mikrotik. Still growing and expanding my expertise
 
 <!--
 **ghildnsy/ghildnsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
