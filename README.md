@@ -4,11 +4,11 @@
 
 ###
 
-<h5 align="left">Informatics student at Universitas Pembangunan Nasional "Veteran" Jawa Timur, focus on frontend web development. Experience with PHP and JavaScript in academic projects, as well as Figma, Framer, and networking technologies including Mikrotik. Still growing and expanding my expertise</h5>
+<h4 align="left">Informatics student at Universitas Pembangunan Nasional "Veteran" Jawa Timur, focus on frontend web development. Experience with PHP and JavaScript in academic projects, as well as Figma, Framer, and networking technologies including Mikrotik. Still growing and expanding my expertise</h4>
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/a07mxl"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFiYTM5cjJlMHg4dGkwbGphZzRtZ3BrNGU1OW52cGZkYzJuNGtnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PK0E0cl6UeHhz4q3tZ/giphy.gif"  />
 
 ###
 
@@ -82,5 +82,3 @@
 </div>
 
 ###
-
-![kaisa](https://imgflip.com/gif/a07mxl)
