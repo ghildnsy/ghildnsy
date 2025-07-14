@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="237" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmducDZlbGY3ODMwemhiZ2lsZ3d2ZmVkN2YwaGxxY3E5bmlxeDhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PK0E0cl6UeHhz4q3tZ/giphy.gif"  />
+<img align="right" height="231" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmducDZlbGY3ODMwemhiZ2lsZ3d2ZmVkN2YwaGxxY3E5bmlxeDhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PK0E0cl6UeHhz4q3tZ/giphy.gif"  />
 
 ###
 
@@ -32,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
