@@ -4,7 +4,10 @@
 
 ###
 
-<h4 align="left">Informatics student at Universitas Pembangunan Nasional "Veteran" Jawa Timur, focus on frontend web development. Experience with PHP and JavaScript in academic projects, as well as Figma, Framer, and networking technologies including Mikrotik. Still growing and expanding my expertise</h4>
+<div align="justify">
+**Informatics student at Universitas Pembangunan Nasional "Veteran" Jawa Timur, focus on frontend web development. Experience with PHP and JavaScript in academic projects, as well as Figma, Framer, and networking technologies including Mikrotik. Still growing and expanding my expertise**
+</div>
+
 
 ###
 
