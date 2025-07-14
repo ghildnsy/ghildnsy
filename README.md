@@ -8,11 +8,11 @@
 
 ###
 
-<img align="right" height="123" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmducDZlbGY3ODMwemhiZ2lsZ3d2ZmVkN2YwaGxxY3E5bmlxeDhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PK0E0cl6UeHhz4q3tZ/giphy.gif"  />
+<img align="right" height="269" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmducDZlbGY3ODMwemhiZ2lsZ3d2ZmVkN2YwaGxxY3E5bmlxeDhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PK0E0cl6UeHhz4q3tZ/giphy.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
@@ -38,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/ghildnsy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -50,6 +50,14 @@
   </a>
   <a href="https://www.linkedin.com/in/ghildansa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/0py6zjmx5ryb88sdnrggia99w">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0py6zjmx5ryb88sdnrggia99w&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -70,15 +78,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghildnsy/ghildnsy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghildnsy/ghildnsy/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/0py6zjmx5ryb88sdnrggia99w">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0py6zjmx5ryb88sdnrggia99w&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
