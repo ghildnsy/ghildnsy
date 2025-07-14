@@ -1,12 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ghildnsy.ghildnsy&left_color=forestgreen&right_color=darkorchid&left_text=%E2%97%89%E2%80%BF%E2%97%89%20"  />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ghildnsy.ghildnsy&left_color=forestgreen&right_color=darkorchid&left_text=%E2%97%89%E2%80%BF%E2%97%89%20"  />
+</div>
 
 ###
 
-<h2 align="left">Informatics student at Universitas Pembangunan Nasional "Veteran" Jawa Timur, focus on frontend web development. Experience with PHP and JavaScript in academic projects, as well as Figma, Framer, and networking technologies including Mikrotik. Still growing and expanding my expertise</h2>
+<h5 align="left">Informatics student at Universitas Pembangunan Nasional "Veteran" Jawa Timur, focus on frontend web development. Experience with PHP and JavaScript in academic projects, as well as Figma, Framer, and networking technologies including Mikrotik. Still growing and expanding my expertise</h5>
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/en-GB/view/kaisa-league-of-legends-gif-21258722"  />
+<img align="right" height="150" src="https://imgflip.com/gif/a07mxl"  />
 
 ###
 
@@ -80,3 +82,5 @@
 </div>
 
 ###
+
+![kaisa](https://imgflip.com/gif/a07mxl)
